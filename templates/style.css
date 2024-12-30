@@ -1,0 +1,33 @@
+/* Add your custom styles here */
+body {
+    background-color: #f9f9f9;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+.card {
+    background-color: #fff;
+    border-radius: 8px;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.btn-warning {
+    background-color: #ffc107;
+    border-color: #ffc107;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff
+}
